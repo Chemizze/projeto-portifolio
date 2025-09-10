@@ -42,7 +42,7 @@ nav#menu ul{
 nav#menu a{
   text-decoration: none;
   color: var(--texto-inverso);
-  font-weight: 600;
+  font-weight: 500;
   padding: 12px;
   border-radius: 5px;
   transition: backgroud-color 0.5, color 0.5;
